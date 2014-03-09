@@ -1,4 +1,6 @@
-const int led = 13;
+#define IOPIN 13;
+
+const int led = IOPIN;
 
 void setup()
 {
